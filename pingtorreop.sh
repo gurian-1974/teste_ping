@@ -321,7 +321,6 @@ echo "           )##( _ _ _ _ _ )##("
 echo "            ##             ##"
 echo "           #__#    fim    #--#"
 echo "          # __ #  teste  # __ #"
-echo "
 echo "         #      #       #      #"
 echo -e '\033[1;37m'
 echo Deseja proseguir com o teste [s/n] ?
